@@ -72,3 +72,34 @@ p{
     margin-bottom: 35px !important;
 }
 
+.footer{
+    background-color: #212529;
+    /* height: 120px; */
+}
+
+.carusel{
+    height: 100vh !important;
+    object-fit: cover;
+}
+
+.carousel-item img{
+    height: inherit;
+    box-sizing: border-box;
+}
+
+.carousel {
+    max-height: 85vh !important;
+    overflow: hidden !important;
+}
+
+.cuadro:hover{
+    animation: pulse; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s; /* don't forget to set a duration! */
+}
+
+/* @keyframes zoom {
+    from {transform: scale(1);}
+    to {transform: scale(1.1);}
+} */
+
+
