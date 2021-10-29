@@ -102,4 +102,11 @@ p{
     to {transform: scale(1.1);}
 } */
 
+.nav-link{
+    color: #fff !important;
+}
+.active{
+    color: #e14b4b !important;
+}
+
 
