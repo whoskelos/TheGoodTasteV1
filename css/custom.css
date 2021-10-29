@@ -109,4 +109,13 @@ p{
     color: #e14b4b !important;
 }
 
-
+.fondo{
+    background-image: url("/img/fondoContacto2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 35% 25%;
+    height: 45vh;
+}
+.contact-title{
+    font-size: 70px;
+}
